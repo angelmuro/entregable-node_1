@@ -163,7 +163,7 @@ insert into courses  (
 	'Programming in react',
 	'Perfecto',
 	1,
-	'Pedro Antonio',
+	'Gabriel Muro',
 	1,
 	1
 ), (
@@ -171,7 +171,7 @@ insert into courses  (
 	'Programming in javascript',
 	'Nice',
 	2,
-	'Mario Casta',
+	'Angel Arroyo',
 	2,
 	2
 );
@@ -202,3 +202,4 @@ insert into users_courses (
 	'1a2f4aa9-baae-45e9-a56b-35dbbc8bd6c0',
 	'e4a1a72e-aad1-4c70-8c07-327f92f5e12a'
 )
+
